@@ -1,0 +1,32 @@
+2025-12-19 15:58:24 - Iniciando sync.php
+Iniciando teste de conexão
+Testando: \\192.168.140.199\Compartilhamento\
+Testando: //192.168.140.199/Compartilhamento/
+Testando: \\192.168.140.199\Compartilhamento
+Testando: //192.168.140.199/Compartilhamento
+Sync finalizado: FALHA
+
+2025-12-19 15:58:28 - Iniciando sync.php
+Iniciando teste de conexão
+Testando: \\192.168.140.199\Compartilhamento\
+Testando: //192.168.140.199/Compartilhamento/
+Testando: \\192.168.140.199\Compartilhamento
+Testando: //192.168.140.199/Compartilhamento
+Sync finalizado: FALHA
+
+2025-12-19 15:58:59 - Iniciando sync.php
+Iniciando teste de conexão
+Testando: \\192.168.140.199\Compartilhamento\
+Testando: //192.168.140.199/Compartilhamento/
+Testando: \\192.168.140.199\Compartilhamento
+Testando: //192.168.140.199/Compartilhamento
+Sync finalizado: FALHA
+
+2025-12-19 16:00:00 - Iniciando sync.php
+Iniciando teste de conexão
+Testando: \\192.168.140.199\Compartilhamento\
+Testando: //192.168.140.199/Compartilhamento/
+Testando: \\192.168.140.199\Compartilhamento
+Testando: //192.168.140.199/Compartilhamento
+Sync finalizado: FALHA
+
